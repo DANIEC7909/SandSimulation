@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (sdlNew.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Engine.cpp
+C:\Users\piotr\source\repos\sdlNew\sdlNew\Engine.h(46,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\piotr\source\repos\sdlNew\sdlNew\Engine.h(46,18): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\piotr\source\repos\sdlNew\sdlNew\Engine.h(49,17): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\piotr\source\repos\sdlNew\sdlNew\Engine.h(50,17): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+  sdlNew.vcxproj -> C:\Users\piotr\source\repos\sdlNew\x64\Debug\Engine.exe
